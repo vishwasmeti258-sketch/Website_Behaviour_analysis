@@ -49,7 +49,8 @@ time on page and bounce rate by source
 
 
 # 🛠 Tools & Technologies
-Power BI – Dashboard creation and visualization Python (Pandas, Matplotlib, Seaborn) – Data preprocessing & analysis
+Power BI – Dashboard creation and visualization 
+Python (Pandas, Matplotlib, Seaborn) – Data preprocessing & analysis
 
 # 🔍 Key Insights
 
