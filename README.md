@@ -47,12 +47,17 @@ time on page and bounce rate by source
 
 • conversing by page views 
 
-• 
-
-•
-
 
 # 🛠 Tools & Technologies
 Power BI – Dashboard creation and visualization Python (Pandas, Matplotlib, Seaborn) – Data preprocessing & analysis
 
 # 🔍 Key Insights
+
+•  highest Bounce rate is form source of social within 0-5 seconds session.
+
+•  conversion of organic is more comparative other traffic source.
+
+•  pervious visits of paid and organic has more.
+
+• direct traffic source is very low
+traffic.
