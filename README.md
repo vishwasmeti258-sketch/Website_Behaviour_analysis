@@ -1,9 +1,13 @@
 # 📖 Website_Behaviour_analysis
 
-#📍 Overview
+
+# 📍 Overview
+
+
 This project provides a proper analysis of website performance and customer behavior across diverse traffic sources. By leveraging data-driven dashboards, we can easily identify how the platform responds to different user segments and acquisition channels.
 
-#📄 Objectives
+# 📄 Objectives
+
 
 • Bounce rate on website highest by user
 
@@ -13,7 +17,9 @@ This project provides a proper analysis of website performance and customer beha
 
 • Pervious visits by users to understand how frequently users using website.
 
-#📂 Dataset Description
+# 📂 Dataset Description
+
+
 The dataset contains the following key columns:
 
 | Column Name | Description |
@@ -27,10 +33,26 @@ The dataset contains the following key columns:
 | **Conversion Rate** | Percentage of users who completed a goal |
 
 
-#📉 Dashboard Visuals
+# 📉 Dashboard Visuals
+
+• Line chart to count user by Traffic source
+
+• Pair plot to understand relationship
+between columns one another.
+
+• violin plot to frequency/density of
+time on page and bounce rate by source
+
+• correlation heatmap to relation different columns .
+
+• conversing by page views 
+
+• 
+
+•
 
 
-#🛠 Tools & Technologies
+# 🛠 Tools & Technologies
 Power BI – Dashboard creation and visualization Python (Pandas, Matplotlib, Seaborn) – Data preprocessing & analysis
 
-#🔍 Key Insights
+# 🔍 Key Insights
